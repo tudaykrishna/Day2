@@ -1,2 +1,2 @@
 # Day2
-Edited the file Successfully
+# About section of the page in the feature/about-page branch
