@@ -5,4 +5,4 @@ WORKDIR /app1
 COPY . /app1
 RUN pip install -r requirements.txt
 
-CMD ["python","Day_4_2.py"]
+CMD ["python","Day4_2.py"]
