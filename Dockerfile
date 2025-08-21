@@ -1,7 +1,7 @@
 FROM python:3.9-slim
 
-WORKDIR /app
+WORKDIR /app1
 
-COPY . /app
+COPY . /app1
 
-CMD ["python","Day_4.py"]
+CMD ["python","Day_4_2.py"]
